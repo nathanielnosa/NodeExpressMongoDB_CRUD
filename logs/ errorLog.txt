@@ -1,0 +1,10 @@
+20240213	00:00:51	a5543506-af38-40c7-8246-367e8ddae3e5	Error:Not allowed by CORS
+20240213	00:10:13	b84b08a5-97f1-4b7d-957d-f5545484053b	Error:Not allowed by CORS
+20240213	00:10:14	06a58828-b374-4f3c-98f6-fde96aaab8f8	Error:Not allowed by CORS
+20240215	19:14:27	ba759a8f-f2ee-4922-a45c-0d93c838416c	Error:ENOENT: no such file or directory, stat 'C:\Users\Nathaniel\Documents\dev\express\01\routes\clients\settings\index.html'
+20240215	19:33:29	944819a2-f41d-4d0c-8d88-4148432dfae6	Error:ENOENT: no such file or directory, stat 'C:\Users\Nathaniel\Documents\dev\express\01\routes\clients\index.html'
+20240216	00:26:05	296ca8c9-b63e-4344-a01f-50bf687b7d1f	TypeError:data.employees is not a function
+20240218	02:39:34	b56344f8-b1b8-429d-8148-051e79bb1e2b	SyntaxError:Expected double-quoted property name in JSON at position 23
+20240222	23:58:19	8c4ceac2-611c-4c8c-9a55-8ab1de916e9f	Error:Not allowed by CORS
+20240223	00:14:24	4c2d9cad-7e26-43d6-bd25-3b3c1269c220	TypeError:Cannot read properties of undefined (reading 'origin')
+20240223	00:15:43	bad0d4a5-7e43-4e58-ab90-b5f1eb1e839b	TypeError:res.headers is not a function

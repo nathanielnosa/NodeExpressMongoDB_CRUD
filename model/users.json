@@ -1,0 +1,54 @@
+[
+    {
+        "username": "ncode",
+        "roles": {
+            "User": 2013
+        },
+        "password": "$2b$10$BBNE1u9Ycl4fVpXJ4qRF4eHtIEQELeQddrHFFLoaSpckY1XKHs9Sa",
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im5jb2RlIiwiaWF0IjoxNzA4NjUxNjc0LCJleHAiOjE3MDg3MzgwNzR9.t9xP2pdfIcOuqReUwDqhTL8luT04kvDGbNjIauEOJJ0"
+    },
+    {
+        "username": "userone",
+        "roles": {
+            "User": 2013,
+            "Editor": 2020
+        },
+        "password": "$2b$10$OKwj77ulwyuEhYP/CFG.guY7LxE8U5SZSA1gYJnCUtOHU7s/tXMGW",
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVzZXJvbmUiLCJpYXQiOjE3MDg2NTE4NTksImV4cCI6MTcwODczODI1OX0.W9N45G11r9o03ygHwnVn_cUHE3I2f8uTxvTZw2MFIVI"
+    },
+    {
+        "username": "usertwo",
+        "roles": {
+            "User": 2013,
+            "Editor": 2020,
+            "Admin": 2000
+        },
+        "password": "$2b$10$GgkT48jFkxB6h51tWly6m.zPHao3Ab16HNDptvfI7ZPdAjTBCpW3q",
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVzZXJ0d28iLCJpYXQiOjE3MDg2NTE5MTYsImV4cCI6MTcwODczODMxNn0.R5_BeVTGNYLomuv3hKsjb6T9k6qAQnXX3sasWpkbOdA"
+    },
+    {
+        "username": "newuser",
+        "roles": {
+            "User": 2013
+        },
+        "password": "$2b$10$33VmTc72HaGXihb5o7B6t.2sRr.pPGnt0PYEOsTmgGCef2dIqyDTa"
+    },
+    {
+        "username": "newuser2",
+        "roles": "Admin",
+        "password": "$2b$10$eXG1BA3DhMsLt1vohgQye.PETMgTNLgIm3UTg6Nvw.OY6OUz9BfRO"
+    },
+    {
+        "username": "superadmin",
+        "roles": "Admin",
+        "password": "$2b$10$tEiTqUqkZCvkre7xWWvLbOd/GWon2j3l5N2eJSIZaLwCaeGVnmgwO"
+    },
+    {
+        "username": "supreme",
+        "roles": [
+            "Admin",
+            "Editor"
+        ],
+        "password": "$2b$10$vI36xnIzAYp4.nZlae9yye/v8MEkMpG3lh3vBrm.mdJRarLGcEmiy"
+    }
+]

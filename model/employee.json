@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "firstName": "Nathaniel",
+        "department": "IT department"
+    },
+    {
+        "id": 2,
+        "firstName": "Nosa",
+        "department": "Fintech department"
+    },
+    {
+        "id": 3,
+        "firstName": "NCOde",
+        "department": "Maintenance department"
+    }
+]
